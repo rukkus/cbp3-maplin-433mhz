@@ -8,4 +8,4 @@ The [433MHz sender](https://www.miniinthebox.com/433mhz-wireless-transmitter-mod
 
 ## Configuration
 
-To configure each switch, the top dial on the back it the group and the bottom dial is the socket number.
+To configure each switch, the top dial on the back of the socket is for the group and the bottom dial is the socket number in the craftbeerpi actor settings.
